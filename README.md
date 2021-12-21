@@ -1,4 +1,4 @@
-# 3D Flip Card Effect On Hover Using Only HTML & CSS
+# 3D Flip Card Effect On Click Using HTML, CSS and some JS
 
 
 
